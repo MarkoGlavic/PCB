@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="class-use">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../slf4j-simple-1.7.4-javadoc.jar!/org/slf4j/impl/class-use" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
